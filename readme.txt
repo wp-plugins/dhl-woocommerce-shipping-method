@@ -1,5 +1,5 @@
 === DHL WooCommerce Shipping Method ===
-Contributors: DaZ_008
+Contributors: WooForce
 Donate link: 
 Tags: DHL Express, DHL Express Shipping, Shipping rates, shipping method, calculator, Shipping, WooCommerce, shipping calculator, calculate, shipping extension 
 Requires at least: 3.0.1
