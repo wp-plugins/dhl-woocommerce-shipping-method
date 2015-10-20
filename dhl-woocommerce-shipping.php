@@ -3,7 +3,7 @@
 	Plugin Name: DHL WooCommerce Shipping Basic 
 	Plugin URI: http://www.wooforce.com
 	Description: Obtain real time shipping rates via DHL Shipping API. This is basic version, Upgrade to Premium version for Print shipping labels, Automatic tracking, Box packing & Services management.
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: WooForce
 	Author URI: http://www.wooforce.com
 	Copyright: 2014-2015 WooForce.	

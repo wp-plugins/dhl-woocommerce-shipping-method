@@ -4,7 +4,7 @@ Donate link:
 Tags: DHL Express, DHL Express Shipping, Shipping rates, shipping method, calculator, Shipping, WooCommerce, shipping calculator, calculate, shipping extension 
 Requires at least: 3.0.1
 Tested up to: 4.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -93,10 +93,14 @@ You can enable debug in settings and debug messages will start showing up in car
 2. Checkout Screen
 
 == Changelog ==
-= 1.0 =
+= 1.0.1 =
+ * Resolved WP_Error Issue.
+= 1.0.0 =
  * Realtime Shipping Rates
 
 
 == Upgrade Notice ==
-= 1.0 =
+= 1.0.1 =
+Minor Bug Fix Release 
+= 1.0.0 =
 Initial release

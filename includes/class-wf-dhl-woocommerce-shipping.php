@@ -337,7 +337,7 @@ XML;
 			jQuery('pre.debug_info').hide();
 		" );
 
-		if ( ! empty( $result['body'] ) ) {
+		if ( is_array($result) && ! empty( $result['body'] ) ) {
 			$result = $result['body'];
 		} else {
 			$result = '';
